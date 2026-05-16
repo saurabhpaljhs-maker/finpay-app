@@ -1,0 +1,29 @@
+{
+  "name": "finpay-app",
+  "version": "1.0.0",
+  "description": "FinPay - Payment Processing API built with Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "echo \"Tests not yet implemented\"",
+    "lint": "echo \"Linting not yet configured\""
+  },
+  "keywords": [
+    "fintech",
+    "payment",
+    "api",
+    "node.js",
+    "express"
+  ],
+  "author": "DevOps Team",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  }
+}
